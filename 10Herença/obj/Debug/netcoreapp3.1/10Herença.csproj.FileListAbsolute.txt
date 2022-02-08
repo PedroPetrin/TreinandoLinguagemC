@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\bin\Debug\netcoreapp3.1\10Herença.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\10Herença\obj\Debug\netcoreapp3.1\10Herença.genruntimeconfig.cache

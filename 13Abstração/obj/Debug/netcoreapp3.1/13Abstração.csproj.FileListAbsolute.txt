@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\bin\Debug\netcoreapp3.1\13Abstração.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\13Abstração\obj\Debug\netcoreapp3.1\13Abstração.genruntimeconfig.cache

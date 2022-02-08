@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\bin\Debug\netcoreapp3.1\09This.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\09This\obj\Debug\netcoreapp3.1\09This.genruntimeconfig.cache

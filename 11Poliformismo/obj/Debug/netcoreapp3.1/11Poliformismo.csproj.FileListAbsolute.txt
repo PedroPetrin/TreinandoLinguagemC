@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\bin\Debug\netcoreapp3.1\11Poliformismo.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\11Poliformismo\obj\Debug\netcoreapp3.1\11Poliformismo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.exe
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.deps.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.dev.json
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csprojAssemblyReference.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfoInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfo.cs
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.dll
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.pdb
+C:\Users\Pedro Petrin\Documents\Programação\DIO e Grupo GFT\Treinando\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.genruntimeconfig.cache
